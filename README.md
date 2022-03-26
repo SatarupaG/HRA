@@ -1,2 +1,2 @@
 # HRA
-Heart Attack Predication
+This repository hosts the python codes (jupyter) for Heart Attack Predication.
