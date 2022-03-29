@@ -5,3 +5,8 @@ This repository hosts the python codes (jupyter) for Heart Attack Predication.
 Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking an estimated 17.9 million lives each year, which accounts for 31% of all deaths worldwide. Four out of 5CVD deaths are due to heart attacks and strokes, and one-third of these deaths occur prematurely in people under 70 years of age. Heart failure is a common event caused by CVDs and this dataset contains 11 features that can be used to predict a possible heart disease.
 
 People with cardiovascular disease or who are at high cardiovascular risk (due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidaemia or already established disease) need early detection and management wherein a machine learning model can be of great help.
+
+# Conclusion:
+1.According to Accuracy Score, Model using LogisticRegression fits the dataset in the best way.
+2.According to Accuracy, Model using GaussianNB fits the dataset in the best way.
+3.considering Accuracy score with F1 score we have found that Model using GaussianNB would be the best fitted model for the aforementioned dataset.
