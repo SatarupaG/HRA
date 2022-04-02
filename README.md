@@ -8,5 +8,7 @@ People with cardiovascular disease or who are at high cardiovascular risk (due t
 
 # Conclusion:
 1.According to Accuracy Score, Model using LogisticRegression fits the dataset in the best way.
+
 2.According to Accuracy, Model using GaussianNB fits the dataset in the best way.
+
 3.considering Accuracy score with F1 score we have found that Model using GaussianNB would be the best fitted model for the aforementioned dataset.
