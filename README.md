@@ -7,8 +7,8 @@ Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking 
 People with cardiovascular disease or who are at high cardiovascular risk (due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidaemia or already established disease) need early detection and management wherein a machine learning model can be of great help.
 
 # Conclusion:
-1.According to Accuracy Score, Model using LogisticRegression fits the dataset in the best way.
+1. According to Accuracy Score, Model using LogisticRegression fits the dataset in the best way.
 
-2.According to Accuracy, Model using GaussianNB fits the dataset in the best way.
+2. According to Accuracy, Model using GaussianNB fits the dataset in the best way.
 
-3.considering Accuracy score with F1 score we have found that Model using GaussianNB would be the best fitted model for the aforementioned dataset.
+3. Considering Accuracy score with F1 score we have found that Model using GaussianNB would be the best fitted model for the aforementioned dataset.
