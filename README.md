@@ -1,5 +1,5 @@
 # Heart Attack Analysis & Prediction
-This repository hosts the python codes for Heart Attack Predication.
+This repository hosts the python codes for Heart Attack Predication
 
 ## Tools/Packages/Libraries
 1. Python (Libraries: NumPy, Scikit)
