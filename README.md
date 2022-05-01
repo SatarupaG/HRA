@@ -2,7 +2,7 @@
 This repository hosts the python codes for Heart Attack Predication.
 
 ## Tools/Packages/Libraries
-1. Python (Libraries: NumPy, Scikit)
+1. Python (Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit)
 2. Jupyter Notebook
 
 ##  Problem Statement
